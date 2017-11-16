@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MDM</string>
+    <string name="nomal_mode">生活模式</string>
+    <string name="working_mode">工作模式</string>
+    <string name="forsuntech">北京峰盛博远科技股份有限公司</string>
+    <string name="card_title">card_title</string>
+    <string name="service_name">service_name</string>
+</resources>
